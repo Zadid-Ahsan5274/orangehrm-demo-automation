@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM User Update Automation Suite">
+    <test name="User can update his/her information successfully">
+        <classes>
+            <class name="testrunner.UserUpdateTestRunner"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
