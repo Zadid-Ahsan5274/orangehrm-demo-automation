@@ -32,7 +32,7 @@
   ## Automation Recording
   https://user-images.githubusercontent.com/82231014/202165012-b164e33a-dd4f-43ed-82b8-cd3a9a9a81d8.mp4
 
-  ## Reports Screenshots
+  ## Report Screenshots
   ![ss1](https://user-images.githubusercontent.com/82231014/202162317-317a13ee-c6da-417d-bb73-bd5ccd36a72c.png)
   ![ss2](https://user-images.githubusercontent.com/82231014/202162336-2dc577f6-bda5-4f92-8cf4-d518eb1c29eb.png)
 
