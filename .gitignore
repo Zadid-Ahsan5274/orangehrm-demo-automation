@@ -2,6 +2,5 @@
 .idea/
 allure-results/
 build/
-gradle/
 src/main/
 allure-reports/
